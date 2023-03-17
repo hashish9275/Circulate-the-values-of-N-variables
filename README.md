@@ -31,7 +31,6 @@ End the program.
 #Program to circulate N values.
 #Developed by: K R HASHISH VIDYA SAGAR
 #RegisterNumber: 212222230047
-
 def circulate():
     list1=eval(input())
     n=int(input())
